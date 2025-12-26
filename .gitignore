@@ -1,0 +1,25 @@
+# Unity
+Library/
+Temp/
+Logs/
+Build/
+.DS_Store
+*.meta
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.sln.DotSettings.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.ipa
+*.app
